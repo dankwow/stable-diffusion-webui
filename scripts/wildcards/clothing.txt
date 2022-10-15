@@ -1,0 +1,61 @@
+belt
+bikini
+blazer
+blouse
+boots
+bow tie
+boxers
+bra
+briefs
+camisole
+cardigan
+cargos
+coat
+corset
+cravat
+cufflinks
+cummerbund
+dinner jacket
+dress
+fleece
+gloves
+gown
+hat
+hoody
+jacket
+jeans
+jogging suit
+kilt
+knickers
+lingerie
+nightgown
+overalls
+pajamas
+polo shirt
+poncho
+robe
+sandals
+sarong
+scarf
+shawl
+shirt
+shoes
+shorts
+skirt
+slippers
+socks
+stockings
+suit
+sunglasses
+sweatshirt
+swimming shorts
+swimwear
+t - shirt
+tankini
+thong
+tie
+tights
+top
+tracksuit
+underwear
+waistcoat

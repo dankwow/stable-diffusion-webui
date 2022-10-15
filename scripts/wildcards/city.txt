@@ -1,0 +1,120 @@
+abu dhabi
+abuja nigeria
+agra
+amsterdam
+antigua guatemala guatemala
+athens
+auckland
+bangkok
+barcelona
+beijing
+beirut
+bellagio
+berlin germany
+bethlehem
+bora bora
+boston
+bruges
+brussels
+budapest
+buenos aires argentina
+cairo
+cancun mexico
+cape town
+cartagena colombia
+chester
+colonia del sacramento uruguay
+copenhagen
+crete
+cusco peru
+damascus
+delphi
+dubai
+dublin
+dubrovnik
+edinburgh
+florence
+frankfurt
+geneva
+gold coast
+granada
+hanoi
+havana
+hilo hawaii
+hong kong
+isfahan iran
+istanbul
+jerash jordan
+jerusalem
+johannesburg south africa
+katmandu
+krakow
+kuala lumpur malaysia
+kyoto
+las vegas
+lhasa
+lima
+lisbon
+liverpool
+london
+los angeles
+luxor
+luzern
+madrid
+marrakech morocco
+mecca
+melbourne
+mexico city mexico
+miami
+milan
+monaco
+mont st. michel france
+munich
+nairobi kenya
+new delhi india
+new york
+nice
+nursultan (astana)
+oslo
+panama city panama
+paris
+philadelphia
+port louis mauritius
+porto
+prague
+qom
+queenstown new zealand
+quito ecuador
+reykjavik iceland
+rio de janeiro
+rome
+rotterdam
+salzburg
+samarkand uzbekistan
+san francisco
+san jose costa rica
+santiago
+santorini
+seattle
+seoul
+shanghai
+siem reap cambodia
+singapore
+sofia
+stockholm
+strasbourg
+sydney
+tokyo
+toronto
+tunis
+ubud indonesia
+valparaiso
+vancouver
+vatican city
+venice
+vienna
+washington dc
+york
+zagreb
+zanzibar
+zurich

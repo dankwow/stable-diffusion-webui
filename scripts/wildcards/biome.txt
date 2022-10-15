@@ -1,0 +1,116 @@
+arctic
+ashen inferno
+bamboo forest
+bamboo grove
+bayou
+bog
+boneyard
+boreal forest
+boreal forest
+canyon
+chaparral
+cherry blossom grove
+clover patch
+cold desert
+cold desert
+coniferous forest
+coral reef
+corrupted sands
+crag
+crag
+crystalline chasm
+dead forest
+deadlands	
+deciduous forest
+dense forest
+dryland
+dune beach
+erupting inferno
+field
+fir clearing
+floodplain
+floodplain
+flower field
+flower island
+forested field
+fungal jungle
+fungi forest
+fungi forest (nether)
+ghost forest
+glacier
+grassland
+heathland
+highland
+highland moor
+hot springs
+icy hills
+jade cliffs
+kelp forest
+land of lakes
+land of lakes marsh
+lavender field
+lavender forest
+lush desert
+lush savanna
+lush swamp
+maple woods
+maple woods
+marsh
+marsh
+mediterranean forest
+mountain foothills
+mountains
+muskeg
+mystic grove
+nether
+oasis
+old growth dead forest
+old growth woodland
+ominous woods
+orchard
+origin beach
+origin valley
+outback
+overgrown cliffs
+overgrown greens
+pasture
+polar
+polar chasm
+prairie
+pumpkin patch
+quagmire
+rainbow hills
+rainforest
+redwood forest
+rocky rainforest
+rocky shrubland
+sacred springs
+scrubland
+seasonal forest
+shield
+shrubland
+sludgepit
+snowy coniferous forest
+snowy dead forest
+snowy fir clearing
+snowy forest
+snowy maple woods
+steppe
+temperate rainforest
+thicket
+timber
+tropical rainforest
+tropics
+tundra
+undergrowth	nether
+visceral heap
+volcanic plains
+volcano
+wasteland
+wetland
+white beach
+withered abyss
+wooded scrubland
+wooded wasteland
+woodland
+xeric shrubland
